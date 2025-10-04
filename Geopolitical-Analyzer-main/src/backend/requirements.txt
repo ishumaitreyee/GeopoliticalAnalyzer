@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+langchain
+langchain-google-genai
+langchain-community
+duckduckgo-search
+beautifulsoup4
+google-generativeai
+ddgs
